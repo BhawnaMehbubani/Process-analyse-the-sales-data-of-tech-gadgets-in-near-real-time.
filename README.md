@@ -1,6 +1,6 @@
 #  Process & Analyze the Sales Data of Tech Gadgets in Near Real-Time
 
-## 📖 Table of Contents
+##  Table of Contents
 
 1. [Overview](#-overview)  
    - [Tech Stack](#-tech-stack)  
